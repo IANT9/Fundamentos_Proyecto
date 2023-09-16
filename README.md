@@ -1,9 +1,13 @@
 # Fundamentos Proyecto
+
 ---
+
 #### En este repositorio se compartiran todos los avances del proyecto
 
 ## Equipo
+
 ---
+
 ### Lider del equipo: 
 
 - Daniel de Jesus Balam Pech
@@ -21,6 +25,7 @@
 ---
 
 ## Nuestro Proyecto - [ No definido ]
+
 ----
 
 ### Descripcion:
