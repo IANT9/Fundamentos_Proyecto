@@ -1,12 +1,8 @@
 # Fundamentos Proyecto
 
----
-
 #### En este repositorio se compartiran todos los avances del proyecto
 
 ## Equipo
-
----
 
 ### Lider del equipo: 
 
@@ -22,11 +18,9 @@
 
 - Pagina Web
 
----
 
 ## Nuestro Proyecto - [ No definido ]
 
-----
 
 ### Descripcion:
 
