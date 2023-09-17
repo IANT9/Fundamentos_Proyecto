@@ -30,4 +30,8 @@
 
 ### Requerimientos:
 
+---
+
 ### Diagramas de caso de uso:
+
+### Gestion de procesos: 
