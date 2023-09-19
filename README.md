@@ -6,13 +6,13 @@
 
 ### Lider del equipo: 
 
-- Daniel de Jesus Balam Pech
+- [Daniel de Jesus Balam Pech](https://github.com/DanielBalam)
 
 ### Equipo de desarrollo:
 
-1. Omar Enrique Osorio Ceme
-2. Luis Angel Nahut Tah
-3. Axel Gabriel Argaez Pool
+1. [Omar Enrique Osorio Ceme](https://github.com/RickySFTW)
+2. [Luis Angel Nahut Tah](https://github.com/IANT9)
+3. [Axel Gabriel Argaez Pool](https://github.com/AxelArgaez)
 
 ## Propuesta del Proyecto
 
@@ -20,7 +20,7 @@
 
 El objetivo principal de esta página web es proporcionar a estudiantes actuales y potenciales, así como a sus familias, información clara y detallada sobre las distintas carreras ofrecidas por la Unidad Multidisciplinaria de la UADY. Esta herramienta servirá como una fuente centralizada de información para ayudar a los usuarios a tomar decisiones informadas sobre su educación superior.
 
-> ## Nuestro Proyecto - [ LandingPage_UADY ]
+> ## Nuestro Proyecto => [ LandingPage_UADY ]
 
 ### Descripcion:
 

@@ -175,10 +175,6 @@ Afán de superación.
 
 ## Actividades o tareas específicas que promuevan las competencias de IS
 
-Pendiente...
-
-## Area de oportunidades/desventajas
-
 **UADY**
 
 Algunas de las tareas o actividades educativas que promueve UADY para una competencia en IS son: 
@@ -202,6 +198,10 @@ Las actividades educativas que promueve el TEC para una mejor competencia son:
 * Manejo de sistemas operativos 
 
 Estos conocimientos educativos son los que promueve el TEC para una competencia en la ingeniería Informática
+
+## Area de oportunidades/desventajas
+
+Pendiente...
 
 ### Evidencias Bibliograficas
 
