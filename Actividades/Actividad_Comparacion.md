@@ -1,10 +1,10 @@
->> # Comparacion Sintetica de programas de Ingenieria de Software
+>> # Comparación Sintética de programas de Ingeniería de Software
 
-## Descripcion de la actividad
+## Descripción de la actividad
 
-En este documento se podra ver la comparativa entre el plan de estudios de la Licenciatura en Ingenieria de Software de la UADY contra la carrera de Ingenieria Informatica del Tecnologico de Tizimin
+En este documento se podrá ver la comparativa entre el plan de estudios de la Licenciatura en Ingeniería de Software de la UADY contra la carrera de Ingeniería Informática del Tecnológico de Tizimin
 
-### ¿Que es la ingenieria en Software?
+### ¿Que es la ingeniería en Software?
 
 Según los Estándares IEEE, 1993: “La aplicación de un enfoque sistemático, disciplinado y cuantificable al desarrollo, operación y mantenimiento de software, es decir, la aplicación de la ingeniería al software”.
 
@@ -41,24 +41,24 @@ Según los Estándares IEEE, 1993: “La aplicación de un enfoque sistemático,
 
     * Responsabilidad Social Universitaria
     * Cultura Maya
-    * Administracion de Proyecto I y II
+    * Administración de Proyecto I y II
 
 2. **Matemáticas:**
 
     * Algebra Intermedia
-    * Geometria Analitica
+    * Geometría Analítica
     * Algebra Superior
-    * Matematicas Discretas
+    * Matemáticas Discretas
     * Algebra Lineal
     * Calculo diferencial
     * Calculo Integral
     * Probabilidad
-    * Inferencia Estadistica
+    * Inferencia Estadística
 
 3. **Arquitectura de Computadoras:**
 
     * Sistemas Operativos
-    * Arquitectura y Organizacion de Computadoras
+    * Arquitectura y Organización de Computadoras
 
 4. **Redes:**
 
@@ -67,40 +67,40 @@ Según los Estándares IEEE, 1993: “La aplicación de un enfoque sistemático,
 
 5. **Software de Base:**
 
-    * Fundamentos de Ingenieria de Software
+    * Fundamentos de Ingeniería de Software
     * Algoritmia
-    * Teoria de la Computacion
+    * Teoría de la Computación
     * Estructura de Datos
-    * Teoria de Lenguajes de Programacion
+    * Teoría de Lenguajes de Programación
 
 6. **Programación e Ingeniería de Software:**
 
-    * Programacion Estructurada
-    * Programacion Orientada a Objetos
+    * Programación Estructurada
+    * Programación Orientada a Objetos
     * Diseño de Software
     * Arquitectura de Software
-    * Metrica de Software
-    * Aseguramiento de la Calidad de Sofware
+    * Métrica de Software
+    * Aseguramiento de la Calidad de Software
 
 7. **Tratamiento de Información:**
 
-    * Construccion de Bases de Datos
-    * Construccion de Software
-    * Experimento en Ingenieria de Software
+    * Construcción de Bases de Datos
+    * Construcción de Software
+    * Experimento en Ingeniería de Software
 
 8. **Interacción Hombre – Máquina:**
 
-    * Interaccion Humano Computacional
-    * Verificacion y Validacion de Software
+    * Interacción Humano Computacional
+    * Verificación y Validación de Software
     * Requisitos de Software
-    * Innovacion Tecnologica
+    * Innovación Tecnológica
     * Mantenimiento de Software
 
 ---
 
-### Conocimientos Tecnicos
+### Conocimientos Técnicos
 
-> **Universisdad Autonoma de Yucatan**
+> **Universidad Autónoma de Yucatan**
 
 ***Conocimientos sobre:***
 
@@ -116,7 +116,7 @@ Según los Estándares IEEE, 1993: “La aplicación de un enfoque sistemático,
 
 6. Las áreas de investigación relacionadas con la Ingeniería de Software.
 
-> **Teconologico Nacional de México**
+> **Tecnológico Nacional de México**
 
 ***Conocimientos sobre:***
 
@@ -154,7 +154,7 @@ Según los Estándares IEEE, 1993: “La aplicación de un enfoque sistemático,
 
 17. Lograr un nivel de competencia internacional, con espíritu innovador, creativo y emprendedor, para generar nuevas oportunidades y desarrollar proyectos aplicando las tecnologías de información.
 
-## Habilidades Tecnicas/blandas
+## Habilidades Técnicas/blandas
 
 **UADY**
 
@@ -203,10 +203,8 @@ Estos conocimientos educativos son los que promueve el TEC para una competencia 
 
 Pendiente...
 
-### Evidencias Bibliograficas
+### Evidencias Bibliográficas
 
-* [Definicion de Ingenieria de Software](https://www.dit.upm.es/~fsaez/intl/ingenieria_del_software_factores_economicos_y_humanos.pdf)
-* [Ingenieria de Software (UADY)](https://www.matematicas.uady.mx/10-facultad/76-perfil-de-egreso-licenciatura-en-ingenieria-de-software)
-* [Ingenieria Informatica (TEC)](https://www.ittizimin.edu.mx/ingenieria-informatica/)
-
-test
+* [Definición de Ingeniería de Software](https://www.dit.upm.es/~fsaez/intl/ingenieria_del_software_factores_economicos_y_humanos.pdf)
+* [Ingeniería de Software (UADY)](https://www.matematicas.uady.mx/10-facultad/76-perfil-de-egreso-licenciatura-en-ingenieria-de-software)
+* [Ingeniería Informática (TEC)](https://www.ittizimin.edu.mx/ingenieria-informatica/)
