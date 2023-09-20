@@ -53,7 +53,7 @@ Según los Estándares IEEE, 1993: “La aplicación de un enfoque sistemático,
     * Calculo diferencial
     * Calculo Integral
     * Probabilidad
-    * Inferencia Estadistica
+    * Inferencia Estadística
 
 3. **Arquitectura de Computadoras:**
 
