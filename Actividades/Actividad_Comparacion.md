@@ -177,13 +177,13 @@ Afán de superación.
 
 **UADY**
 
-Algunas de las tareas o actividades educativas que promueve UADY para una competencia en IS son: 
+Algunas de las tareas o actividades que aporta la UADY para la competencia en IS son:
 
-* Mejora en proceso de Software 
-* Programación web 
+* Mejora en conocimientos de algortimos.
+* Juego de video.
 * Programación de juegos educativos
-* Mejora en conocimiento de algoritmos
-* Juego de Video 
+* Mejora en el conocimiento de software.
+* Programación web.
 
 Esto son algunas de las tareas o actividades que promueve la UADY para una mejor competencia en IS.
 
@@ -191,11 +191,11 @@ Esto son algunas de las tareas o actividades que promueve la UADY para una mejor
 
 Las actividades educativas que promueve el TEC para una mejor competencia son:
 
-* Mejora en Fundamentos de programación
-* Programación orientada a objetos
-* Mejora o conocimiento en Fundamentos de bases de datos
+* Manejo de sistemas operativos
 * Seguridad informática
-* Manejo de sistemas operativos 
+* Mejora en los conocimientos en los fundamentos de bases de datos
+* Programación orientada a objetos
+* Mejora en fundamentos de programación
 
 Estos conocimientos educativos son los que promueve el TEC para una competencia en la ingeniería Informática
 
